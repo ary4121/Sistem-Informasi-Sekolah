@@ -7,7 +7,7 @@ const sequelize = new Sequelize({
   host: 'localhost',    // Database host
   username: 'root',
   password: '',
-  database: 'SIM',
+  database: 'sim',
 });
 
 module.exports = sequelize;
